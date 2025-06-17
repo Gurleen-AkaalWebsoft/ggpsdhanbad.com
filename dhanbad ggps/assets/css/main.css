@@ -2003,7 +2003,7 @@ align-items: start !important;
     border: 1px solid #fff;
 }
 
-.slider-btn .default-btn:hover {}
+
 
 /* Slider Pagination */
 .slider-controls {
@@ -3079,9 +3079,7 @@ margin-top: 5px;
     margin: -10px;
 }
 
-.testimonial-card .swiper-wrapper {}
 
-.testimonial-card .swiper-slide {}
 
 .testimonial-card .testi-item {
     background-color: #fff;
@@ -5558,7 +5556,6 @@ blockquote span {
     border-radius: 1px;
 }
 
-.contact-form {}
 
 .contact-form-group {
     display: grid;
@@ -5654,9 +5651,7 @@ blockquote span {
 .footer-widgets.footer-2 {
     padding: 40px 0 80px;
 }
-.footer-widget .widget-title{
 
-}
 
 .footer-widgets .footer-logo img {
     max-width: 280px;
