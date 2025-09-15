@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans&amp;family=Syne:wght@400;500;600;700&amp;display=swap');
 
-/*** 1.0 - CSS Variables ***/
 :root {
     --primary-font: "Arial", sans-serif;
     --secondary-font: "Arial", sans-serif;
@@ -23,7 +22,6 @@
     --shadow-lg: 0px 8px 18px 0px rgba(0, 0, 0, 0.1);
 }
 
-/*** 2.0 - Common Styles ***/
 * {
     padding: 0;
     margin: 0;
@@ -79,7 +77,6 @@ ul {
     margin: 0;
 }
 
-/*** Form Input Placeholder Color ***/
 input::-webkit-input-placeholder,
 textarea::-webkit-input-placeholder {
     color: var(--grey-light-color) !important;
@@ -87,13 +84,11 @@ textarea::-webkit-input-placeholder {
 
 input:-moz-placeholder,
 textarea:-moz-placeholder {
-    /* Firefox 18- */
     color: var(--grey-light-color) !important;
 }
 
 input::-moz-placeholder,
 textarea::-moz-placeholder {
-    /* Firefox 19+ */
     color: var(--grey-light-color) !important;
 }
 
@@ -107,7 +102,6 @@ button {
     background: none;
 }
 
-/*** Padding Classes ***/
 .padding {
     padding: 100px 0;
 }

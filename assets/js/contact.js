@@ -1,8 +1,4 @@
-/*
-*
-* Contact JS
-* @ThemeEaster
-*/
+
 $(function() {
     // Get the form.
     var form = $('#ajax_contact');
