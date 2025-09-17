@@ -2800,13 +2800,13 @@ section {
     margin: 0;
 }
 
-/* .project-item .project-content h3 a{
-    color: var(--primary-color) !important;
-} */
+.project-item .project-content-top{
+    background: linear-gradient(to right, #089FAC 0%, #86bc42 100%);
+}
 .project-item .project-content h3,
 .achievement-section .service-card h3,
 .project-item .project-content h3 a,
-.news-item .news-content h3 {
+.news-item .news-content h3,.project-item h3 {
     font-size: 20px;
     line-height: 28px;
     font-weight: 700;
